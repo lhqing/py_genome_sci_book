@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E11.5_1_ENCFF329ACL_trimmed.fq.gz ]",
+    "expected_format": "U",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 25693445,
+    "num_assigned_fragments": 25693445,
+    "num_frags_with_concordant_consistent_mappings": 26575933,
+    "num_frags_with_inconsistent_or_orphan_mappings": 0,
+    "strand_mapping_bias": 0.5010616184199441,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 0,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 0,
+    "SF": 13316180,
+    "SR": 13259753,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

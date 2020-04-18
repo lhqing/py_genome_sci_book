@@ -1,0 +1,17 @@
+,tissue,dev_time,replicate,salmon_count_path
+0,forebrain,E10.5,1.quant,/home/hanliu/project/genome_book/DevFB/quant/forebrain_E10.5_1.quant/quant.sf
+1,forebrain,E10.5,2.quant,/home/hanliu/project/genome_book/DevFB/quant/forebrain_E10.5_2.quant/quant.sf
+2,forebrain,E11.5,1.quant,/home/hanliu/project/genome_book/DevFB/quant/forebrain_E11.5_1.quant/quant.sf
+3,forebrain,E11.5,2.quant,/home/hanliu/project/genome_book/DevFB/quant/forebrain_E11.5_2.quant/quant.sf
+4,forebrain,E12.5,1.quant,/home/hanliu/project/genome_book/DevFB/quant/forebrain_E12.5_1.quant/quant.sf
+5,forebrain,E12.5,2.quant,/home/hanliu/project/genome_book/DevFB/quant/forebrain_E12.5_2.quant/quant.sf
+6,forebrain,E13.5,1.quant,/home/hanliu/project/genome_book/DevFB/quant/forebrain_E13.5_1.quant/quant.sf
+7,forebrain,E13.5,2.quant,/home/hanliu/project/genome_book/DevFB/quant/forebrain_E13.5_2.quant/quant.sf
+8,forebrain,E14.5,1.quant,/home/hanliu/project/genome_book/DevFB/quant/forebrain_E14.5_1.quant/quant.sf
+9,forebrain,E14.5,2.quant,/home/hanliu/project/genome_book/DevFB/quant/forebrain_E14.5_2.quant/quant.sf
+10,forebrain,E15.5,1.quant,/home/hanliu/project/genome_book/DevFB/quant/forebrain_E15.5_1.quant/quant.sf
+11,forebrain,E15.5,2.quant,/home/hanliu/project/genome_book/DevFB/quant/forebrain_E15.5_2.quant/quant.sf
+12,forebrain,E16.5,1.quant,/home/hanliu/project/genome_book/DevFB/quant/forebrain_E16.5_1.quant/quant.sf
+13,forebrain,E16.5,2.quant,/home/hanliu/project/genome_book/DevFB/quant/forebrain_E16.5_2.quant/quant.sf
+14,forebrain,P0,1.quant,/home/hanliu/project/genome_book/DevFB/quant/forebrain_P0_1.quant/quant.sf
+15,forebrain,P0,2.quant,/home/hanliu/project/genome_book/DevFB/quant/forebrain_P0_2.quant/quant.sf

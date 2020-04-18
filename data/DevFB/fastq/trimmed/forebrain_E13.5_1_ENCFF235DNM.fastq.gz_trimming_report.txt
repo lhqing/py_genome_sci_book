@@ -1,0 +1,156 @@
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: /home/hanliu/project/genome_book/DevFB/fastq/data/forebrain_E13.5_1_ENCFF235DNM.fastq.gz
+Trimming mode: single-end
+Trim Galore version: 0.6.4_dev
+Cutadapt version: 2.9
+Number of cores used for trimming: 1
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Using Nextera adapter for trimming (count: 47398). Second best hit was smallRNA (count: 1)
+Adapter sequence: 'CTGTCTCTTATA' (Nextera Transposase sequence; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length before a sequence gets removed: 20 bp
+Running FastQC on the data once trimming has completed
+Output file will be GZIP compressed
+
+
+This is cutadapt 2.9 with Python 3.7.6
+Command line parameters: -j 1 -e 0.1 -q 20 -O 1 -a CTGTCTCTTATA /home/hanliu/project/genome_book/DevFB/fastq/data/forebrain_E13.5_1_ENCFF235DNM.fastq.gz
+Processing reads on 1 core in single-end mode ...
+Finished in 2089.32 s (38 us/read; 1.60 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:              55,578,426
+Reads with adapters:                21,005,172 (37.8%)
+Reads written (passing filters):    55,578,426 (100.0%)
+
+Total basepairs processed: 5,557,842,600 bp
+Quality-trimmed:             478,813,849 bp (8.6%)
+Total written (filtered):  4,968,896,473 bp (89.4%)
+
+=== Adapter 1 ===
+
+Sequence: CTGTCTCTTATA; Type: regular 3'; Length: 12; Trimmed: 21005172 times
+
+No. of allowed errors:
+0-9 bp: 0; 10-12 bp: 1
+
+Bases preceding removed adapters:
+  A: 18.8%
+  C: 33.3%
+  G: 23.7%
+  T: 24.2%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	11749259	13894606.5	0	11749259
+2	3616390	3473651.6	0	3616390
+3	1378796	868412.9	0	1378796
+4	381570	217103.2	0	381570
+5	212686	54275.8	0	212686
+6	173063	13569.0	0	173063
+7	146724	3392.2	0	146724
+8	141782	848.1	0	141782
+9	177216	212.0	0	175716 1500
+10	113594	53.0	1	110542 3052
+11	150735	13.3	1	148325 2410
+12	135347	3.3	1	133782 1565
+13	124790	3.3	1	123401 1389
+14	111272	3.3	1	109975 1297
+15	120099	3.3	1	118678 1421
+16	109552	3.3	1	108168 1384
+17	113057	3.3	1	111696 1361
+18	99871	3.3	1	98192 1679
+19	111844	3.3	1	110301 1543
+20	106706	3.3	1	105060 1646
+21	138535	3.3	1	136023 2512
+22	84012	3.3	1	82905 1107
+23	71862	3.3	1	70648 1214
+24	68201	3.3	1	67389 812
+25	68378	3.3	1	67647 731
+26	69694	3.3	1	68892 802
+27	79484	3.3	1	78403 1081
+28	53489	3.3	1	52739 750
+29	74600	3.3	1	73404 1196
+30	65644	3.3	1	64728 916
+31	46664	3.3	1	46010 654
+32	50906	3.3	1	50155 751
+33	49613	3.3	1	48811 802
+34	49774	3.3	1	49105 669
+35	50284	3.3	1	49521 763
+36	49883	3.3	1	49097 786
+37	54109	3.3	1	53140 969
+38	40994	3.3	1	40286 708
+39	48863	3.3	1	48082 781
+40	35052	3.3	1	34393 659
+41	40192	3.3	1	39435 757
+42	28942	3.3	1	28405 537
+43	31891	3.3	1	31232 659
+44	25432	3.3	1	24926 506
+45	26904	3.3	1	26466 438
+46	27053	3.3	1	26501 552
+47	35873	3.3	1	35167 706
+48	30504	3.3	1	29893 611
+49	17332	3.3	1	16857 475
+50	17466	3.3	1	17077 389
+51	21008	3.3	1	20540 468
+52	16520	3.3	1	16092 428
+53	16426	3.3	1	16033 393
+54	24170	3.3	1	23615 555
+55	19823	3.3	1	19330 493
+56	6387	3.3	1	6100 287
+57	9960	3.3	1	9632 328
+58	9649	3.3	1	9337 312
+59	13525	3.3	1	12773 752
+60	7813	3.3	1	7532 281
+61	10608	3.3	1	10292 316
+62	5036	3.3	1	4601 435
+63	5449	3.3	1	5041 408
+64	4686	3.3	1	3786 900
+65	5157	3.3	1	4838 319
+66	2008	3.3	1	1662 346
+67	798	3.3	1	519 279
+68	1531	3.3	1	1058 473
+69	1442	3.3	1	979 463
+70	1616	3.3	1	1329 287
+71	1713	3.3	1	1404 309
+72	1868	3.3	1	1613 255
+73	1986	3.3	1	794 1192
+74	472	3.3	1	150 322
+75	272	3.3	1	52 220
+76	266	3.3	1	19 247
+77	258	3.3	1	27 231
+78	291	3.3	1	5 286
+79	297	3.3	1	7 290
+80	1591	3.3	1	7 1584
+81	648	3.3	1	3 645
+82	357	3.3	1	1 356
+83	540	3.3	1	1 539
+84	212	3.3	1	2 210
+85	227	3.3	1	0 227
+86	303	3.3	1	1 302
+87	256	3.3	1	1 255
+88	377	3.3	1	1 376
+89	187	3.3	1	0 187
+90	617	3.3	1	4 613
+91	443	3.3	1	2 441
+92	873	3.3	1	9 864
+93	180	3.3	1	0 180
+94	382	3.3	1	0 382
+95	89	3.3	1	1 88
+96	114	3.3	1	0 114
+97	350	3.3	1	3 347
+98	198	3.3	1	3 195
+99	110	3.3	1	0 110
+100	100	3.3	1	0 100
+
+RUN STATISTICS FOR INPUT FILE: /home/hanliu/project/genome_book/DevFB/fastq/data/forebrain_E13.5_1_ENCFF235DNM.fastq.gz
+=============================================
+55578426 sequences processed in total
+Sequences removed because they became shorter than the length cutoff of 20 bp:	2285860 (4.1%)
+

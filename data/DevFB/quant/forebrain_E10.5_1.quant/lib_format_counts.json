@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E10.5_1_ENCFF920CNZ_trimmed.fq.gz, /home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E10.5_1_ENCFF320FJX_trimmed.fq.gz ]",
+    "expected_format": "U",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 45874581,
+    "num_assigned_fragments": 45874581,
+    "num_frags_with_concordant_consistent_mappings": 47163997,
+    "num_frags_with_inconsistent_or_orphan_mappings": 0,
+    "strand_mapping_bias": 0.501895778680505,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 0,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 0,
+    "SF": 23671411,
+    "SR": 23492586,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

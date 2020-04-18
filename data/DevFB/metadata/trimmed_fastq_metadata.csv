@@ -1,0 +1,26 @@
+File accession,count_type,experiment_id,bio_sample_id,tissue,replicate,dev_time,file_name
+ENCFF329ACL,reads,ENCSR160IIN,UBERON:0001890,forebrain,1,E11.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E11.5_1_ENCFF329ACL_trimmed.fq.gz
+ENCFF251LNG,reads,ENCSR160IIN,UBERON:0001890,forebrain,2,E11.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E11.5_2_ENCFF251LNG_trimmed.fq.gz
+ENCFF896COV,reads,ENCSR160IIN,UBERON:0001890,forebrain,2,E11.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E11.5_2_ENCFF896COV_trimmed.fq.gz
+ENCFF959PSX,reads,ENCSR970EWM,UBERON:0001890,forebrain,2,E13.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E13.5_2_ENCFF959PSX_trimmed.fq.gz
+ENCFF235DNM,reads,ENCSR970EWM,UBERON:0001890,forebrain,1,E13.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E13.5_1_ENCFF235DNM_trimmed.fq.gz
+ENCFF270GKY,reads,ENCSR185LWM,UBERON:0001890,forebrain,1,E14.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E14.5_1_ENCFF270GKY_trimmed.fq.gz
+ENCFF460TCF,reads,ENCSR185LWM,UBERON:0001890,forebrain,1,E14.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E14.5_1_ENCFF460TCF_trimmed.fq.gz
+ENCFF126IRS,reads,ENCSR185LWM,UBERON:0001890,forebrain,2,E14.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E14.5_2_ENCFF126IRS_trimmed.fq.gz
+ENCFF748SRJ,reads,ENCSR185LWM,UBERON:0001890,forebrain,2,E14.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E14.5_2_ENCFF748SRJ_trimmed.fq.gz
+ENCFF447EXU,reads,ENCSR362AIZ,UBERON:0001890,forebrain,2,P0,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_P0_2_ENCFF447EXU_trimmed.fq.gz
+ENCFF037JQC,reads,ENCSR362AIZ,UBERON:0001890,forebrain,1,P0,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_P0_1_ENCFF037JQC_trimmed.fq.gz
+ENCFF458NWF,reads,ENCSR362AIZ,UBERON:0001890,forebrain,2,P0,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_P0_2_ENCFF458NWF_trimmed.fq.gz
+ENCFF358MFI,reads,ENCSR362AIZ,UBERON:0001890,forebrain,1,P0,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_P0_1_ENCFF358MFI_trimmed.fq.gz
+ENCFF891HIX,reads,ENCSR752RGN,UBERON:0001890,forebrain,2,E15.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E15.5_2_ENCFF891HIX_trimmed.fq.gz
+ENCFF179JEC,reads,ENCSR752RGN,UBERON:0001890,forebrain,1,E15.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E15.5_1_ENCFF179JEC_trimmed.fq.gz
+ENCFF203BWA,reads,ENCSR647QBV,UBERON:0001890,forebrain,2,E12.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E12.5_2_ENCFF203BWA_trimmed.fq.gz
+ENCFF920QAY,reads,ENCSR647QBV,UBERON:0001890,forebrain,1,E12.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E12.5_1_ENCFF920QAY_trimmed.fq.gz
+ENCFF294JRP,reads,ENCSR647QBV,UBERON:0001890,forebrain,1,E12.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E12.5_1_ENCFF294JRP_trimmed.fq.gz
+ENCFF700OLU,reads,ENCSR647QBV,UBERON:0001890,forebrain,2,E12.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E12.5_2_ENCFF700OLU_trimmed.fq.gz
+ENCFF920CNZ,reads,ENCSR304RDL,UBERON:0001890,forebrain,1,E10.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E10.5_1_ENCFF920CNZ_trimmed.fq.gz
+ENCFF320FJX,reads,ENCSR304RDL,UBERON:0001890,forebrain,1,E10.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E10.5_1_ENCFF320FJX_trimmed.fq.gz
+ENCFF528EVC,reads,ENCSR304RDL,UBERON:0001890,forebrain,2,E10.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E10.5_2_ENCFF528EVC_trimmed.fq.gz
+ENCFF663SNC,reads,ENCSR304RDL,UBERON:0001890,forebrain,2,E10.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E10.5_2_ENCFF663SNC_trimmed.fq.gz
+ENCFF931IVO,reads,ENCSR080EVZ,UBERON:0001890,forebrain,1,E16.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E16.5_1_ENCFF931IVO_trimmed.fq.gz
+ENCFF114DRT,reads,ENCSR080EVZ,UBERON:0001890,forebrain,2,E16.5,/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E16.5_2_ENCFF114DRT_trimmed.fq.gz

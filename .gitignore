@@ -125,3 +125,4 @@ dmypy.json
 .pyre/
 data/bulk_rna/.DS_Store
 .DS_Store
+data/rsync_from_cemba.sh

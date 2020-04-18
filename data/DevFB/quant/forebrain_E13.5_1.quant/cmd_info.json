@@ -1,0 +1,10 @@
+{
+    "salmon_version": "1.2.0",
+    "index": "/home/hanliu/project/genome_book/DevFB/../ref/Salmon/salmon_index",
+    "libType": "A",
+    "unmatedReads": "/home/hanliu/project/genome_book/DevFB/fastq/trimmed/forebrain_E13.5_1_ENCFF235DNM_trimmed.fq.gz",
+    "threads": "45",
+    "validateMappings": [],
+    "output": "/home/hanliu/project/genome_book/DevFB/quant/forebrain_E13.5_1.quant",
+    "auxDir": "aux_info"
+}
