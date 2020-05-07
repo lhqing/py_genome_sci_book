@@ -1,2 +1,0 @@
-# Pointers In Python 🚩
-

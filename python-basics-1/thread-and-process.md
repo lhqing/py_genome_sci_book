@@ -1,2 +1,0 @@
-# Thread and Process 🚩
-
