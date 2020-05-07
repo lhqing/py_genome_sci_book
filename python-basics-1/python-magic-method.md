@@ -1,0 +1,2 @@
+# Python magic method 🚩
+
