@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+analysis/salmon_demo/data/salmon_index/
+analysis/salmon_demo/data/quant/
+analysis/salmon_demo/data/fastq/trimmed/
 # C extensions
 *.so
 
@@ -127,3 +129,4 @@ data/bulk_rna/.DS_Store
 .DS_Store
 data/rsync_from_cemba.sh
 data/MOp_snRNA/mouse_MOp_SMARTseq_gene_count.h5ad
+analysis/salmon_demo/gencode.vM25.transcripts.fa.gz
