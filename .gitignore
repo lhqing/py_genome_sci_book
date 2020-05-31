@@ -130,3 +130,5 @@ data/bulk_rna/.DS_Store
 data/rsync_from_cemba.sh
 data/MOp_snRNA/mouse_MOp_SMARTseq_gene_count.h5ad
 analysis/salmon_demo/gencode.vM25.transcripts.fa.gz
+analysis/DevFBProject/AggSalmon/tx2gene.csv
+analysis/DevFBProject/AggSalmon/DevFB.16sample.gene_level_quant.csv.gz
