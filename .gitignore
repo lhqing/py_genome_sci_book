@@ -132,3 +132,9 @@ data/MOp_snRNA/mouse_MOp_SMARTseq_gene_count.h5ad
 analysis/salmon_demo/gencode.vM25.transcripts.fa.gz
 analysis/DevFBProject/AggSalmon/tx2gene.csv
 analysis/DevFBProject/AggSalmon/DevFB.16sample.gene_level_quant.csv.gz
+analysis/DevFBProject/AggSalmon/DevFB.16sample.counts_for_DEG.csv.gz
+analysis/DevFBProject/AggSalmon/DevFB.16sample.design.csv.gz
+analysis/DevFBProject/ExploreData/mm10-blacklist.v2.bed
+analysis/DevFBProject/ExploreData/gene_bed_white.bed
+data/ref/GENCODEvM24/gene_bed_with_id.bed
+data/ref/GENCODEvM24/gene_meta.csv.gz
