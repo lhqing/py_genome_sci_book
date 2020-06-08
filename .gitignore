@@ -138,3 +138,8 @@ analysis/DevFBProject/ExploreData/mm10-blacklist.v2.bed
 analysis/DevFBProject/ExploreData/gene_bed_white.bed
 data/ref/GENCODEvM24/gene_bed_with_id.bed
 data/ref/GENCODEvM24/gene_meta.csv.gz
+analysis/DEGDemo/analysis/gene_raw_count_table.csv.gz
+analysis/DEGDemo/analysis/PCA Plot.pdf
+analysis/DEGDemo/analysis/gene_metadata.csv.gz
+analysis/DEGDemo/analysis/Correlation Heatmap.pdf
+analysis/DEGDemo/data/prepare_example_data_in_htseq_like_format.ipynb
