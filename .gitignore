@@ -143,3 +143,9 @@ analysis/DEGDemo/analysis/PCA Plot.pdf
 analysis/DEGDemo/analysis/gene_metadata.csv.gz
 analysis/DEGDemo/analysis/Correlation Heatmap.pdf
 analysis/DEGDemo/data/prepare_example_data_in_htseq_like_format.ipynb
+analysis/DEGDemo/analysis/3.Pairwise_DEG_by_DESeq2.E10.5_vs_E14.5.ipynb
+analysis/DEGDemo/analysis/3.Pairwise_DEG_by_DESeq2.E10.5_vs_P0.ipynb
+analysis/DEGDemo/analysis/3.Pairwise_DEG_by_DESeq2.E14.5_vs_P0.ipynb
+analysis/DEGDemo/analysis/E10.5_vs_E14.5.deg_results.csv
+analysis/DEGDemo/analysis/E10.5_vs_P0.deg_results.csv
+analysis/DEGDemo/analysis/E14.5_vs_P0.deg_results.csv
