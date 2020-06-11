@@ -149,3 +149,9 @@ analysis/DEGDemo/analysis/3.Pairwise_DEG_by_DESeq2.E14.5_vs_P0.ipynb
 analysis/DEGDemo/analysis/E10.5_vs_E14.5.deg_results.csv
 analysis/DEGDemo/analysis/E10.5_vs_P0.deg_results.csv
 analysis/DEGDemo/analysis/E14.5_vs_P0.deg_results.csv
+analysis/DEGDemo/analysis/DEG_venn.pdf
+analysis/DEGDemo/analysis/DEG_volcano.all_three_pairs.pdf
+analysis/DEGDemo/analysis/DEG_volcano.E10.5_vs_E14.5.pdf
+analysis/DEGDemo/analysis/DEG_volcano.E10.5_vs_P0.pdf
+analysis/DEGDemo/analysis/DEG_volcano.E14.5_vs_P0.pdf
+analysis/DEGDemo/analysis/TotalDEG.csv.gz
