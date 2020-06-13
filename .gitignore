@@ -155,3 +155,13 @@ analysis/DEGDemo/analysis/DEG_volcano.E10.5_vs_E14.5.pdf
 analysis/DEGDemo/analysis/DEG_volcano.E10.5_vs_P0.pdf
 analysis/DEGDemo/analysis/DEG_volcano.E14.5_vs_P0.pdf
 analysis/DEGDemo/analysis/TotalDEG.csv.gz
+analysis/DEGDemo/analysis/E10.5_vs_E14.5.deg_results.csv.gz
+analysis/DEGDemo/analysis/E10.5_vs_P0.deg_results.csv.gz
+analysis/DEGDemo/analysis/E14.5_vs_P0.deg_results.csv.gz
+analysis/DEGDemo/analysis/GSEA/E10.5_vs_E14.5.expression_data.txt
+analysis/DEGDemo/analysis/GSEA/E10.5_vs_E14.5.phenotype_data.cls
+analysis/DEGDemo/analysis/GSEA/E10.5_vs_P0.expression_data.txt
+analysis/DEGDemo/analysis/GSEA/E10.5_vs_P0.phenotype_data.cls
+analysis/DEGDemo/analysis/GSEA/E14.5_vs_P0.expression_data.txt
+analysis/DEGDemo/analysis/GSEA/E14.5_vs_P0.phenotype_data.cls
+analysis/DEGDemo/ref/msigdb.v7.1.symbols.gmt.gz
