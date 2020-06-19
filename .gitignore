@@ -165,3 +165,29 @@ analysis/DEGDemo/analysis/GSEA/E10.5_vs_P0.phenotype_data.cls
 analysis/DEGDemo/analysis/GSEA/E14.5_vs_P0.expression_data.txt
 analysis/DEGDemo/analysis/GSEA/E14.5_vs_P0.phenotype_data.cls
 analysis/DEGDemo/ref/msigdb.v7.1.symbols.gmt.gz
+analysis/DEGDemo/analysis/GO/E10.5 high - E14.5 low.GO.tsv
+analysis/DEGDemo/analysis/GO/E10.5 high - E14.5 low.GOBP.png
+analysis/DEGDemo/analysis/GO/E10.5 high - E14.5 low.GOCC.png
+analysis/DEGDemo/analysis/GO/E10.5 high - E14.5 low.GOMF.png
+analysis/DEGDemo/analysis/GO/E10.5 high - P0 low.GO.tsv
+analysis/DEGDemo/analysis/GO/E10.5 high - P0 low.GOBP.png
+analysis/DEGDemo/analysis/GO/E10.5 high - P0 low.GOCC.png
+analysis/DEGDemo/analysis/GO/E10.5 high - P0 low.GOMF.png
+analysis/DEGDemo/analysis/GO/E14.5 high - E10.5 low.GO.tsv
+analysis/DEGDemo/analysis/GO/E14.5 high - E10.5 low.GOBP.png
+analysis/DEGDemo/analysis/GO/E14.5 high - E10.5 low.GOCC.png
+analysis/DEGDemo/analysis/GO/E14.5 high - E10.5 low.GOMF.png
+analysis/DEGDemo/analysis/GO/E14.5 high - P0 low.GO.tsv
+analysis/DEGDemo/analysis/GO/E14.5 high - P0 low.GOBP.png
+analysis/DEGDemo/analysis/GO/E14.5 high - P0 low.GOCC.png
+analysis/DEGDemo/analysis/GO/E14.5 high - P0 low.GOMF.png
+analysis/DEGDemo/analysis/GO/P0 high - E10.5 low.GO.tsv
+analysis/DEGDemo/analysis/GO/P0 high - E10.5 low.GOBP.png
+analysis/DEGDemo/analysis/GO/P0 high - E10.5 low.GOCC.png
+analysis/DEGDemo/analysis/GO/P0 high - E10.5 low.GOMF.png
+analysis/DEGDemo/analysis/GO/P0 high - E14.5 low.GO.tsv
+analysis/DEGDemo/analysis/GO/P0 high - E14.5 low.GOBP.png
+analysis/DEGDemo/analysis/GO/P0 high - E14.5 low.GOCC.png
+analysis/DEGDemo/analysis/GO/P0 high - E14.5 low.GOMF.png
+analysis/DEGDemo/analysis/gene2go
+analysis/DEGDemo/analysis/go-basic.obo
